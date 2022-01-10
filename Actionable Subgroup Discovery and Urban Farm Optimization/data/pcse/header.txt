@@ -1,0 +1,8 @@
+## Site Characteristics
+Country     = 'Netherlands'
+Station     = 'Wageningen, Haarweg'
+Description = 'Observed data from Station Haarweg in Wageningen'
+Source      = 'Meteorology and Air Quality Group, Wageningen University'
+Contact     = 'Peter Uithol'
+Longitude = 5.67; Latitude = 51.97; Elevation = 7; AngstromA = 0.18; AngstromB = 0.55; HasSunshine = False
+## Daily weather observations (missing values are NaN)
